@@ -1,4 +1,4 @@
-# Day1 expanding cards
+# Day 1 expanding cards
 
 This is the expanding cards project from the course '50 projects in 50 days'
 
